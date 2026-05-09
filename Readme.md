@@ -1,4 +1,7 @@
 # EncodeFilesPython
+
+Feel free to contact me if you have any questions (THROUGH EMAIL NOT TEXTING): Remit.sachet-24@icloud.com
+
 Encode your files, really hard to decrypt if you don't know the password.
 
 
